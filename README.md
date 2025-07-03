@@ -26,5 +26,10 @@ To see the website locally:
 
 Feel free to connect or reach out!
 
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
-- [Email](mailto:YOUR-EMAIL@example.com)
+- [Email](mailto:rrondedushi@gmail.com)
+
+## 🌍 Live Demo
+
+You can view the live website here:  
+[https://rron-portfolio.netlify.app](https://rron-portfolio.netlify.app)
+
